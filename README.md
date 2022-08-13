@@ -1,4 +1,4 @@
-# -
+# 
 1. 基于Kaggle平台提供的《Airbnb平台2019年纽约房价》数据集，预处理数据。训练了多种机器学习模型，以根据提供的多种数据来预测房价，并总结出最佳预测方案。
 
 2. 使用基于python的NumPy, Pandas, Matplotlib, Seaborn, Plotly, Maps模块预处理及可视化数据。绘制Heatmap, Bar plot, Violin plot, Scatter Plot等图像来观察数据的分布和异常值，便于后续数据清洗。结合数据提供的信息可以绘制出房价分布图、房子类型分布图等，以便更直观的观察并分析数据。运用RobustScaler进行数据归约，平衡各特征的权重。
